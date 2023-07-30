@@ -1,0 +1,7 @@
+__pycache__
+*.png
+*.jpg
+*.pkl
+!checkpoints/bs4vae/latest_net_D.pkl
+!checkpoints/bs4vae/latest_net_E.pkl
+!checkpoints/bs4vae/latest_net_G.pkl
